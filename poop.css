@@ -1,0 +1,28 @@
+.container{
+    display:flex;
+    
+    }
+    .row{
+        width: 110%;
+       height:100vh;
+       margin:none;
+       
+
+    }
+    .col-one{
+        background-color:rgb(255, 255, 255);
+        border-right: 5px;
+        border-color: black;
+        
+
+    }
+    .col-two{
+        background-color:rgb(145, 145, 145);
+        border-right: 5px;
+        border-color: black;
+        
+    }
+    .col-three{
+        background-color:rgb(145, 145, 145);
+        
+    }
